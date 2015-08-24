@@ -9,7 +9,7 @@ this is not foolproof and i suck at go
 ## install
 
 ````
-go install github.com/ecto/facelock
+go get github.com/ecto/facelock
 ````
 
 ## run
